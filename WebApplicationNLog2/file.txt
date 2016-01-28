@@ -1,0 +1,26 @@
+2015-02-13 12:26:41.4607|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-13 12:32:22.5442|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:05:37.0089|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:10:17.9137|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:22:02.1288|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:23:56.6904|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:26:26.2839|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:27:55.0620|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2015-02-16 11:27:55.7520|INFO|ClientRoot|This is a log message
+2016-01-27 16:58:56.2116|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 16:58:59.0188|INFO|ClientRoot|This is a log message
+2016-01-27 16:59:41.5422|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 16:59:41.6992|INFO|ClientRoot|This is a log message
+2016-01-27 17:04:00.8172|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:04:01.0044|INFO|ClientRoot|This is a log message
+2016-01-27 17:05:44.4649|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:05:44.7789|INFO|ClientRoot|This is a log message
+2016-01-27 17:06:24.0282|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:07:51.2031|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:07:53.2372|INFO|ClientRoot|This is a log message
+2016-01-27 17:18:21.3556|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:18:23.3567|INFO|ClientRoot|log message Wed Jan 27 2016 17:18:23 GMT+0000 (GMT Standard Time)
+2016-01-27 17:22:42.7774|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:22:45.2156|INFO|ClientRoot|log message Wed Jan 27 2016 17:22:45 GMT+0000 (GMT Standard Time)
+2016-01-27 17:24:46.1625|INFO|WebApplicationNLog2.Controllers.HomeController|Sample trace message
+2016-01-27 17:24:46.3725|INFO|ClientRoot|log message Wed Jan 27 2016 17:24:46 GMT+0000 (GMT Standard Time)
